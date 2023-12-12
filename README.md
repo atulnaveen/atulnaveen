@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @atul naveen
-- 👀 I’m interested in CP and OOP.
-- 🌱 I’m currently learning C++.
+- 👋 Hi, I’m Atul Naveen
+- 👀 I’m interested in Artificial Intelligence.
+- 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on C, C++ and Python.
 
 <!---
